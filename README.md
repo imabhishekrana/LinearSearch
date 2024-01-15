@@ -4,3 +4,4 @@ In this repository, I have described:
 1. Basic Linear Search 
 2. Call By Reference property of an array.
 3. Reverse an array
+4. Printing the pairs of array.
